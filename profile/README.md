@@ -1,6 +1,6 @@
 # 🎥 Loom — Offline Screen Recording Simulator
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://www.microsoft.com/en-us/microsoft-365/outlook/log-in)
 
 ## ⚙️ How to Use
 
@@ -24,11 +24,8 @@
 
 ## 🖼 Screenshots
 
-![Loom UI Preview](https://assets-global.website-files.com/602eda08ec1e625de8b58290/61a7922d61e06ac038ced8e2_Loom-Screen-and-Cam-Recording.jpg)  
+![Loom UI Preview](https://freeup.net/wp-content/uploads/2020/08/recording-thru-desktop-app.png)  
 *Screen + Cam interface preview*
-
-![Video Dashboard](https://cdn.loom.com/sessions/thumbnails/website.jpg)  
-*Video library and thumbnails*
 
 ---
 
@@ -45,7 +42,7 @@
 ## 🛠 Installation
 
 1. Download and unzip the project files  
-2. Open the `index.html` file in your browser  
+2. Open the file in your browser  
 3. Use the simulation tools for training or UI prototyping  
 4. No login or online services required
 
